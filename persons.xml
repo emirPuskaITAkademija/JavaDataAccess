@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>13</int>
+    </void>
+    <void property="name">
+     <string>Ajla</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>AJ123</string>
+    </void>
+    <void property="surname">
+     <string>Reiz</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>23</int>
+    </void>
+    <void property="name">
+     <string>Selma</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>SE123</string>
+    </void>
+    <void property="surname">
+     <string>Fatić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="one.model.Person">
+    <void property="age">
+     <int>15</int>
+    </void>
+    <void property="name">
+     <string>Neila</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>NE123</string>
+    </void>
+    <void property="surname">
+     <string>Hasanović</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
